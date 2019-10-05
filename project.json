@@ -436,7 +436,7 @@
         "Default Device.canvasWidth": 1080,
         "Default Device.canvasHeight": 1920,
         "mqttUseExternalBroker": true,
-        "mqttBrokerUrl": "mqtt://try:try@broker.shiftr.io"
+        "mqttBrokerUrl": "mqtts://try:try@broker.shiftr.io"
     },
     "rootNodeId": "2d3ccd33-f1ef-2dc5-3e1a-ca9d61cd222b",
     "version": "1"
