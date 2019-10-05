@@ -4,6 +4,8 @@ This is a [Noodl](https://tensorx.co.jp/noodl-jp/) project. You need [Noodl inst
 
 You can view MQTT transmisson through [shiftr.io](https://shiftr.io) directly from Noodl viewer.
 
+![](img/main.gif)
+
 ## Sample Page
 https://kn1cht.github.io/shiftrio-in-noodl-example/
 
